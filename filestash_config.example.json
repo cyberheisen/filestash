@@ -1,7 +1,7 @@
 {
-  "source_dir": "/path/to/icloud/inbox",
-  "destination_root": "/path/to/onedrive/Documents/Files",
-  "review_dir": "/path/to/onedrive/Documents/Files/_Needs Review",
+  "source_dir": "/path/to/inbox",
+  "destination_root": "/path/to/destination",
+  "review_dir": "/path/to/destination/_Needs Review",
   "file_extensions": [".pdf", ".jpg", ".jpeg", ".png"],
   "move_files": true,
   "company_aliases": {
