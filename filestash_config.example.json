@@ -1,0 +1,23 @@
+{
+  "source_dir": "/path/to/icloud/inbox",
+  "destination_root": "/path/to/onedrive/Documents/Files",
+  "review_dir": "/path/to/onedrive/Documents/Files/_Needs Review",
+  "file_extensions": [".pdf", ".jpg", ".jpeg", ".png"],
+  "move_files": true,
+  "company_aliases": {
+    "att": "AT&T",
+    "at&t wireless": "AT&T",
+    "kaiser": "Kaiser Permanente",
+    "kaiser permanente": "Kaiser Permanente"
+  },
+  "medical_people": {
+    "alex": "Alex",
+    "taylor": "Taylor",
+    "sam": "Sam"
+  },
+  "medical_companies": [
+    "kaiser permanente",
+    "sutter health",
+    "cvs pharmacy"
+  ]
+}
